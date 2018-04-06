@@ -1,8 +1,6 @@
 #!/usr/bin/env ruby
 # Add ${execpi 3600 path/to/conky_pacman.rb} to the bottom of ~/.conkyrc
 
-# TODO: use regex to match package ratings (linux*)
-
 CONKY_WIDTH  = 35
 MAX_PACKAGES = 8
 COLOR_INFO   = '#FFFFFF'
